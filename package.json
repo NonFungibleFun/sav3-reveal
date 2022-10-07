@@ -1,0 +1,12 @@
+{
+  "name": "sav3-reveal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com-kkannung:NonFungibleFun/sav3-reveal.git",
+  "author": "kkannung <kkannung@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@pinata/sdk": "^1.1.26",
+    "dotenv": "^16.0.3"
+  }
+}
